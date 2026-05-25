@@ -77,6 +77,114 @@
             "main_sound": "falcon_fire.ogg",
             "pre_sound": null,
             "priority": 4
+        },
+		{
+            "name": "сaution_windshear",
+            "main_sound": "сaution_windshear.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "windshear",
+            "main_sound": "windshear.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "stall",
+            "main_sound": "stall.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "sink_rate",
+            "main_sound": "sink_rate.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "right_sidestick_fail",
+            "main_sound": "right_sidestick_fail.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "right_sidestick_fail",
+            "main_sound": "right_sidestick_fail.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "pull_up",
+            "main_sound": "pull_up.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "priority_left",
+            "main_sound": "priority_left.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "one_thousand",
+            "main_sound": "one_thousand.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "one_hundred",
+            "main_sound": "one_hundred.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "minimums",
+            "main_sound": "minimums.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "left_sidestick_fail",
+            "main_sound": "left_sidestick_fail.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "dont_sink.ogg",
+            "main_sound": "dont_sink.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "direct_laws",
+            "main_sound": "direct_laws.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "bank_angle",
+            "main_sound": "bank_angle.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "backup_operative",
+            "main_sound": "backup_operative.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "approaching_minimums",
+            "main_sound": "approaching_minimums.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "EVS_minimums.ogg",
+            "main_sound": "EVS_minimums.ogg",
+            "pre_sound": null,
+            "priority": 4
         }
     ]
 }
