@@ -109,8 +109,8 @@
             "priority": 4
         },
 		{
-            "name": "right_sidestick_fail",
-            "main_sound": "right_sidestick_fail.ogg",
+            "name": "left_sidestick_fail",
+            "main_sound": "left_sidestick_fail.ogg",
             "pre_sound": null,
             "priority": 4
         },
@@ -145,12 +145,6 @@
             "priority": 4
         },
 		{
-            "name": "left_sidestick_fail",
-            "main_sound": "left_sidestick_fail.ogg",
-            "pre_sound": null,
-            "priority": 4
-        },
-		{
             "name": "dont_sink.ogg",
             "main_sound": "dont_sink.ogg",
             "pre_sound": null,
@@ -181,7 +175,7 @@
             "priority": 4
         },
 		{
-            "name": "EVS_minimums.ogg",
+            "name": "evs_minimums",
             "main_sound": "EVS_minimums.ogg",
             "pre_sound": null,
             "priority": 4
