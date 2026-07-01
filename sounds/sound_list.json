@@ -1,5 +1,11 @@
 {
     "sound_list": [
+	    {
+            "name": "engine_motoring",
+            "main_sound": "sound_engine_idle.ogg",
+            "pre_sound": null,
+            "priority": 9
+        },
         {
             "name": "engine_min",
             "main_sound": "sound_engine_min_l.ogg",
