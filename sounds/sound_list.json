@@ -92,7 +92,7 @@
         },
 		{
             "name": "windshear",
-            "main_sound": "windshear.ogg",
+            "main_sound": "windshear.mp3",
             "pre_sound": null,
             "priority": 4
         },
@@ -122,7 +122,7 @@
         },
 		{
             "name": "pull_up",
-            "main_sound": "pull_up.ogg",
+            "main_sound": "pullup.mp3",
             "pre_sound": null,
             "priority": 4
         },
@@ -183,6 +183,42 @@
 		{
             "name": "evs_minimums",
             "main_sound": "EVS_minimums.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "rat_working",
+            "main_sound": "rat.ogg",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "glideslope",
+            "main_sound": "glideslope.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "falcon_peep",
+            "main_sound": "piiiic.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "terrain",
+            "main_sound": "terrain.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "tcas_test",
+            "main_sound": "tcas_test.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "tcas_test_passed",
+            "main_sound": "tcas_test_passed.mp3",
             "pre_sound": null,
             "priority": 4
         }
