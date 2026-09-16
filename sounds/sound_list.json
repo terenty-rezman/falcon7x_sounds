@@ -221,6 +221,30 @@
             "main_sound": "tcas_test_passed.mp3",
             "pre_sound": null,
             "priority": 4
+        },
+		{
+            "name": "ice",
+            "main_sound": "ice.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "too_low_gear",
+            "main_sound": "too_low_gear.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "too_low_terrain",
+            "main_sound": "too_low_terrain.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "too_low_flaps",
+            "main_sound": "too_low_flaps.mp3",
+            "pre_sound": null,
+            "priority": 4
         }
     ]
 }
