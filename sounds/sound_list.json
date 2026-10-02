@@ -245,6 +245,18 @@
             "main_sound": "too_low_flaps.mp3",
             "pre_sound": null,
             "priority": 4
+        },
+		{
+            "name": "autopilot_x2",
+            "main_sound": "autopilot.mp3",
+            "pre_sound": null,
+            "priority": 4
+        },
+		{
+            "name": "autothrottle",
+            "main_sound": "auto_throttle.mp3",
+            "pre_sound": null,
+            "priority": 4
         }
     ]
 }
